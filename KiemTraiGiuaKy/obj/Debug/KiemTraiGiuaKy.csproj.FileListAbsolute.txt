@@ -1,0 +1,17 @@
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\bin\Debug\KiemTraiGiuaKy.exe.config
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\bin\Debug\KiemTraiGiuaKy.exe
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\bin\Debug\KiemTraiGiuaKy.pdb
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\bin\Debug\EntityFramework.dll
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\bin\Debug\EntityFramework.SqlServer.dll
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\bin\Debug\EntityFramework.xml
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\bin\Debug\EntityFramework.SqlServer.xml
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\obj\Debug\KiemTraiGiuaKy.csproj.AssemblyReference.cache
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\obj\Debug\KiemTraiGiuaKy.Form1.resources
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\obj\Debug\KiemTraiGiuaKy.frm_phanQuyen.resources
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\obj\Debug\KiemTraiGiuaKy.Properties.Resources.resources
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\obj\Debug\KiemTraiGiuaKy.csproj.GenerateResource.cache
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\obj\Debug\KiemTraiGiuaKy.csproj.CoreCompileInputs.cache
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\obj\Debug\KiemTrai.AD2E5AA0.Up2Date
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\obj\Debug\KiemTraiGiuaKy.exe
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\obj\Debug\KiemTraiGiuaKy.pdb
+F:\BT_Web\KiemTraiGiuaKy\KiemTraiGiuaKy\obj\Debug\KiemTraiGiuaKy.exe.config
