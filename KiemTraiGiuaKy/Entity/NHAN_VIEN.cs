@@ -39,7 +39,7 @@ namespace KiemTraiGiuaKy.Entity
         [StringLength(10)]
         public string TENDANGNHAP { get; set; }
 
-        [StringLength(16)]
+        [StringLength(255)]
         public string MATKHAU { get; set; }
 
         public bool? VOHIEUHOA { get; set; }

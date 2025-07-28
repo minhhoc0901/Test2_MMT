@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhMang\\Test2_MMT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{988995F8-97A9-4A5F-822F-91C62658AAAF}|KiemTraiGiuaKy\\KiemTraiGiuaKy.csproj|d:\\laptrinhmang\\test2_mmt\\kiemtraigiuaky\\frm_dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988995F8-97A9-4A5F-822F-91C62658AAAF}|KiemTraiGiuaKy\\KiemTraiGiuaKy.csproj|solutionrelative:kiemtraigiuaky\\frm_dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988995F8-97A9-4A5F-822F-91C62658AAAF}|KiemTraiGiuaKy\\KiemTraiGiuaKy.csproj|d:\\laptrinhmang\\test2_mmt\\kiemtraigiuaky\\frm_dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{988995F8-97A9-4A5F-822F-91C62658AAAF}|KiemTraiGiuaKy\\KiemTraiGiuaKy.csproj|solutionrelative:kiemtraigiuaky\\frm_dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988995F8-97A9-4A5F-822F-91C62658AAAF}|KiemTraiGiuaKy\\KiemTraiGiuaKy.csproj|d:\\laptrinhmang\\test2_mmt\\kiemtraigiuaky\\frm_dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988995F8-97A9-4A5F-822F-91C62658AAAF}|KiemTraiGiuaKy\\KiemTraiGiuaKy.csproj|solutionrelative:kiemtraigiuaky\\frm_dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988995F8-97A9-4A5F-822F-91C62658AAAF}|KiemTraiGiuaKy\\KiemTraiGiuaKy.csproj|d:\\laptrinhmang\\test2_mmt\\kiemtraigiuaky\\frm_phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988995F8-97A9-4A5F-822F-91C62658AAAF}|KiemTraiGiuaKy\\KiemTraiGiuaKy.csproj|solutionrelative:kiemtraigiuaky\\frm_phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_DangKy.cs",
+              "DocumentMoniker": "D:\\LapTrinhMang\\Test2_MMT\\KiemTraiGiuaKy\\frm_DangKy.cs",
+              "RelativeDocumentMoniker": "KiemTraiGiuaKy\\frm_DangKy.cs",
+              "ToolTip": "D:\\LapTrinhMang\\Test2_MMT\\KiemTraiGiuaKy\\frm_DangKy.cs",
+              "RelativeToolTip": "KiemTraiGiuaKy\\frm_DangKy.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAEwCQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:19:55.836Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_DangKy.Designer.cs",
+              "DocumentMoniker": "D:\\LapTrinhMang\\Test2_MMT\\KiemTraiGiuaKy\\frm_DangKy.Designer.cs",
+              "RelativeDocumentMoniker": "KiemTraiGiuaKy\\frm_DangKy.Designer.cs",
+              "ToolTip": "D:\\LapTrinhMang\\Test2_MMT\\KiemTraiGiuaKy\\frm_DangKy.Designer.cs",
+              "RelativeToolTip": "KiemTraiGiuaKy\\frm_DangKy.Designer.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAuwPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:42:59.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_phanQuyen.cs",
+              "DocumentMoniker": "D:\\LapTrinhMang\\Test2_MMT\\KiemTraiGiuaKy\\frm_phanQuyen.cs",
+              "RelativeDocumentMoniker": "KiemTraiGiuaKy\\frm_phanQuyen.cs",
+              "ToolTip": "D:\\LapTrinhMang\\Test2_MMT\\KiemTraiGiuaKy\\frm_phanQuyen.cs",
+              "RelativeToolTip": "KiemTraiGiuaKy\\frm_phanQuyen.cs",
+              "ViewState": "AgIAAJ4CAAAAAAAAAAAtwJwBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:35:27.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_DangKy.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhMang\\Test2_MMT\\KiemTraiGiuaKy\\frm_DangKy.cs",
+              "RelativeDocumentMoniker": "KiemTraiGiuaKy\\frm_DangKy.cs",
+              "ToolTip": "D:\\LapTrinhMang\\Test2_MMT\\KiemTraiGiuaKy\\frm_DangKy.cs [Design]",
+              "RelativeToolTip": "KiemTraiGiuaKy\\frm_DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:05:31.172Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
